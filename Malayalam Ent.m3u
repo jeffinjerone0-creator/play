@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="asianethd.in" tvg-name="MY: ASIANET (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MALAYALAM | ENTRTNMNT",MY: ASIANET (4K).
+https://datahub11.com:443/live/ZAIN/zain123/98891.ts
+#EXTINF:-1 tvg-id="asianethd.in" tvg-name="MY: Asianet HD" tvg-logo="https://i.ibb.co/v3CjsWg/download-1-2.png" group-title="MALAYALAM | ENTRTNMNT",MY: Asianet HD
+https://datahub11.com:443/live/ZAIN/zain123/166.ts
+#EXTINF:-1 tvg-id="ts292" tvg-name="MY: ASIANET (FHD)" tvg-logo="https://i.ibb.co/v3CjsWg/download-1-2.png" group-title="MALAYALAM | ENTRTNMNT",MY: ASIANET (FHD)
+https://datahub11.com:443/live/ZAIN/zain123/23307.ts
+#EXTINF:-1 tvg-id="suryahd.in" tvg-name="MY: SURYA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MALAYALAM | ENTRTNMNT",MY: SURYA (4K).
+https://datahub11.com:443/live/ZAIN/zain123/98888.ts
+#EXTINF:-1 tvg-id="suryahd.in" tvg-name="MY: Surya_HD" tvg-logo="https://2.bp.blogspot.com/-sP7G3dIkQG8/XIIBmfHt9VI/AAAAAAAAL1w/Y6wWIEW86VQI2dAb98pX2gI9tvDh5pAJACLcBGAs/s1600/Surya_HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: Surya_HD
+https://datahub11.com:443/live/ZAIN/zain123/193.ts
+#EXTINF:-1 tvg-id="ts230" tvg-name="MY: SURYA (FHD)" tvg-logo="https://2.bp.blogspot.com/-sP7G3dIkQG8/XIIBmfHt9VI/AAAAAAAAL1w/Y6wWIEW86VQI2dAb98pX2gI9tvDh5pAJACLcBGAs/s1600/Surya_HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: SURYA (FHD)
+https://datahub11.com:443/live/ZAIN/zain123/23309.ts
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="MY: MAZHAVIL (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MALAYALAM | ENTRTNMNT",MY: MAZHAVIL (4K).
+https://datahub11.com:443/live/ZAIN/zain123/98912.ts
+#EXTINF:-1 tvg-id="ts395" tvg-name="MY: MAZHAVIL (FHD)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mazhavil_manorama.png" group-title="MALAYALAM | ENTRTNMNT",MY: MAZHAVIL (FHD)
+https://datahub11.com:443/live/ZAIN/zain123/23311.ts
+#EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="MY: ZEE KERALAM (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MALAYALAM | ENTRTNMNT",MY: ZEE KERALAM (4K).
+https://datahub11.com:443/live/ZAIN/zain123/98895.ts
+#EXTINF:-1 tvg-id="zeekeralam.in" tvg-name="MY: ZEE KERALAM" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: ZEE KERALAM
+https://datahub11.com:443/live/ZAIN/zain123/4226.ts
+#EXTINF:-1 tvg-id="ts694" tvg-name="MY: ZEE KERALAM (FHD)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: ZEE KERALAM (FHD)
+https://datahub11.com:443/live/ZAIN/zain123/10094.ts
+#EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="MY: ZEE KERALAM (FHD)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" group-title="MALAYALAM | ENTRTNMNT",MY: ZEE KERALAM (FHD)
+https://datahub11.com:443/live/ZAIN/zain123/23310.ts
+#EXTINF:-1 tvg-id="ts10" tvg-name="MY: Flowers TV" tvg-logo="https://i.ibb.co/YZ59Jtx/download-3-1.png" group-title="MALAYALAM | ENTRTNMNT",MY: Flowers TV
+https://datahub11.com:443/live/ZAIN/zain123/9030.ts
+#EXTINF:-1 tvg-id="amritatv.in" tvg-name="MY: Amrita TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amrita_tv.png" group-title="MALAYALAM | ENTRTNMNT",MY: Amrita TV
+https://datahub11.com:443/live/ZAIN/zain123/9028.ts
+#EXTINF:-1 tvg-id="ts25" tvg-name="MY: Kairali HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kairali HD
+https://datahub11.com:443/live/ZAIN/zain123/9026.ts
+#EXTINF:-1 tvg-id="asianetplus.in" tvg-name="MY: Asianet Plus" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png" group-title="MALAYALAM | ENTRTNMNT",MY: Asianet Plus
+https://datahub11.com:443/live/ZAIN/zain123/9027.ts
+#EXTINF:-1 tvg-id="suryacomedy.in" tvg-name="MY: SURYA COMEDY HD" tvg-logo="http://stariptv.fun/logos/Surya_Comedy.png" group-title="MALAYALAM | ENTRTNMNT",MY: SURYA COMEDY HD
+https://datahub11.com:443/live/ZAIN/zain123/9033.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: AsianetMiddleEast" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_me.png" group-title="MALAYALAM | ENTRTNMNT",MY: AsianetMiddleEast
+https://datahub11.com:443/live/ZAIN/zain123/85926.ts
+#EXTINF:-1 tvg-id="ts553" tvg-name="MY: Kairali We" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kairali We
+https://datahub11.com:443/live/ZAIN/zain123/150128.ts
+#EXTINF:-1 tvg-id="safaritv.in" tvg-name="MY: SAFARI TV" tvg-logo="https://i.ibb.co/1bvStm3/unnamed.png" group-title="MALAYALAM | ENTRTNMNT",MY: SAFARI TV
+https://datahub11.com:443/live/ZAIN/zain123/4067.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: WE TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="MALAYALAM | ENTRTNMNT",MY: WE TV
+https://datahub11.com:443/live/ZAIN/zain123/53199.ts
+#EXTINF:-1 tvg-id="kochutv.in" tvg-name="MY: Kochu TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kochu_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kochu TV
+https://datahub11.com:443/live/ZAIN/zain123/37450.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: KairaliArabia" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_arabia.png" group-title="MALAYALAM | ENTRTNMNT",MY: KairaliArabia
+https://datahub11.com:443/live/ZAIN/zain123/85928.ts
+#EXTINF:-1 tvg-id="shalomtv.in" tvg-name="MY: Shalom HD" tvg-logo="https://i.ibb.co/mBvR25q/unnamed-1-1.png" group-title="MALAYALAM | ENTRTNMNT",MY: Shalom HD
+https://datahub11.com:443/live/ZAIN/zain123/169838.ts
+#EXTINF:-1 tvg-id="shalomtv.in" tvg-name="MY: Shalom" tvg-logo="https://i.ibb.co/mBvR25q/unnamed-1-1.png" group-title="MALAYALAM | ENTRTNMNT",MY: Shalom
+https://datahub11.com:443/live/ZAIN/zain123/9040.ts
+#EXTINF:-1 tvg-id="ts1364" tvg-name="MY: Power Vesion HD" tvg-logo="https://i.ibb.co/9ZwwK0G/Powervision-live-Malayalam-channel-copy.png" group-title="MALAYALAM | ENTRTNMNT",MY: Power Vesion HD
+https://datahub11.com:443/live/ZAIN/zain123/169867.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Power Vesion Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/pp/powervision_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Power Vesion Malayalam
+https://datahub11.com:443/live/ZAIN/zain123/252.ts
+#EXTINF:-1 tvg-id="goodnesstv.in" tvg-name="MY: GoodnessTV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goodness_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: GoodnessTV
+https://datahub11.com:443/live/ZAIN/zain123/85915.ts
+#EXTINF:-1 tvg-id="ts348" tvg-name="MY: Harvest24x7" tvg-logo="https://www.lyngsat.com/logo/tv/hh/harvest-tv-24x7-in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Harvest24x7
+https://datahub11.com:443/live/ZAIN/zain123/85917.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: DarshanaTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/darshana_tv_in.png" group-title="MALAYALAM | ENTRTNMNT",MY: DarshanaTV
+https://datahub11.com:443/live/ZAIN/zain123/85924.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Pulari Tv HD" tvg-logo="https://pularitv.com/files/Pulari_icon_new-new_copy.png" group-title="MALAYALAM | ENTRTNMNT",MY: Pulari Tv HD
+https://datahub11.com:443/live/ZAIN/zain123/131454.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Kite Victers " tvg-logo="https://i.ibb.co/ydhGdCc/Victers-TV-Logo.png" group-title="MALAYALAM | ENTRTNMNT",MY: Kite Victers
+https://datahub11.com:443/live/ZAIN/zain123/254748.ts
+#EXTINF:-1 tvg-id="ts1313" tvg-name="MY: Shekinah TV " tvg-logo="https://www.lyngsat.com/logo/tv/ss/shekinah-tv-in.png" group-title="MALAYALAM | ENTRTNMNT",MY: Shekinah TV
+https://datahub11.com:443/live/ZAIN/zain123/299439.ts
